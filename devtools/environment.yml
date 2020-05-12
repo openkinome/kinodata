@@ -1,0 +1,10 @@
+name: openkinome-datascripts
+channels:
+- conda-forge
+packages:
+- python
+- pip
+- requests
+- tqdm
+- chembl_webresource_client
+- pandas
