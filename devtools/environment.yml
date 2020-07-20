@@ -9,5 +9,6 @@ packages:
 - chembl_webresource_client
 - pandas
 - matplotlib-base
+- xlrd
 pip:
   - venn
