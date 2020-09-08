@@ -1,10 +1,14 @@
 name: openkinome-datascripts
 channels:
-- conda-forge
+  - conda-forge
 packages:
-- python
-- pip
-- requests
-- tqdm
-- chembl_webresource_client
-- pandas
+  - python
+  - pip
+  - requests
+  - tqdm
+  - chembl_webresource_client
+  - pandas
+  - matplotlib-base
+  - xlrd
+pip:
+  - venn
