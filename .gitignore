@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+## Custom configuration
+# Do not commit outputs
+_out/
