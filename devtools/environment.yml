@@ -10,5 +10,7 @@ packages:
   - pandas
   - matplotlib-base
   - xlrd
+  - beautifulsoup4
+  - ipympl
 pip:
   - venn

@@ -47,6 +47,7 @@ O75676,RPS6KA4-b|KS6A4|RPS6KA4,CHEMBL3125,SINGLE PROTEIN,kinhub|klifs|pkinfam|re
 O75716,STK16,CHEMBL3938,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 O75747,PIK3C2G,CHEMBL1163120,SINGLE PROTEIN,klifs
 O75914,PAK3,CHEMBL2999,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
+O75962,TRIO,CHEMBL4523153,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 O76039,CDKL5,CHEMBL1163112,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 O94768,ST17B|STK17B,CHEMBL3980,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 O94804,STK10,CHEMBL3981,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
@@ -88,6 +89,7 @@ P10721,KIT,CHEMBL1936,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbr
 P11274,BCR,CHEMBL5146,SINGLE PROTEIN,kinhub|klifs
 P11309,PIM1,CHEMBL2147,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 P11362,FGFR1,CHEMBL3650,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
+P11801,KPSH1|PSKH1,CHEMBL4524035,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 P11802,CDK4,CHEMBL331,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 P12931,SRC,CHEMBL267,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 P14616,INSRR,CHEMBL5483,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
@@ -306,6 +308,7 @@ Q56UN5,M3K19|MAP3K19,CHEMBL6191,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uni
 Q58A45,PAN3,CHEMBL4105985,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q58F21,BRDT,CHEMBL1795185,SINGLE PROTEIN,kinhub|klifs
 Q59H18,TNI3K|TNNI3K,CHEMBL5260,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
+Q5MAI5,CDKL4,CHEMBL4523326,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q5S007,LRRK2,CHEMBL1075104,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q5TCX8,M3K21|MAP3K21,CHEMBL3627584,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q5TCY1,TTBK1,CHEMBL1926492,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
@@ -368,6 +371,7 @@ Q8TF76,HASPIN|HASP|GSG2,CHEMBL1075163,SINGLE PROTEIN,kinhub|klifs|pkinfam|review
 Q8WTQ7,GRK7,CHEMBL1075133,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q8WU08,ST32A|STK32A,CHEMBL6150,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q8WXR4,MYO3B,CHEMBL5654,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
+Q92519,TRIB2,CHEMBL4523417,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q92630,DYRK2,CHEMBL4376,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q92772,CDKL2,CHEMBL5728,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q92918,MAP4K1|M4K1,CHEMBL5749,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
@@ -382,11 +386,13 @@ Q96NX5,KCC1G|CAMK1G,CHEMBL5258,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_unip
 Q96PF2,TSSK2,CHEMBL6014,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q96PN8,TSSK3,CHEMBL3414416,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q96PY6,NEK1,CHEMBL5855,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
+Q96Q04,LMTK3,CHEMBL4523432,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q96Q15,SMG1,CHEMBL1795195,SINGLE PROTEIN,kinhub|klifs|pkinfam
 Q96Q40,CDK15,CHEMBL5856,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q96QT4,TRPM7,CHEMBL1250412,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot
 Q96RG2,PASK,CHEMBL6054,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q96RR4,CAMKK2|KKCC2,CHEMBL5284,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
+Q96RU8,TRIB1,CHEMBL4524042,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q96S38,RPS6KC1|KS6C1,CHEMBL1795193,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q96S44,TP53RK|PRPK,CHEMBL1938223,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
 Q96S53,TESK2,CHEMBL2069163,SINGLE PROTEIN,kinhub|klifs|pkinfam|reviewed_uniprot|dunbrack_msa
