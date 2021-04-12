@@ -1,7 +1,7 @@
-name: openkinome-datascripts
+name: kinodata
 channels:
   - conda-forge
-packages:
+dependencies:
   - python
   - pip
   - requests
@@ -12,5 +12,5 @@ packages:
   - xlrd
   - beautifulsoup4
   - ipympl
-pip:
-  - venn
+  - pip:
+    - venn
