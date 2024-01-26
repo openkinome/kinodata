@@ -12,5 +12,6 @@ dependencies:
   - xlrd
   - beautifulsoup4
   - ipympl
+  - opencadd
   - pip:
     - venn
